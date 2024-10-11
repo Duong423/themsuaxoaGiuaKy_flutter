@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480352562582",
+    "project_id": "demogk-b80da",
+    "storage_bucket": "demogk-b80da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480352562582:android:37e99772c0ea982b9dc1b7",
+        "android_client_info": {
+          "package_name": "com.example.app_gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIKeRqDNMaJWDpCYcnCu4RwRNRHh5Wp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
